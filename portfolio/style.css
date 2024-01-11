@@ -1,0 +1,145 @@
+.card {
+    border-radius: 4px;
+    max-width: 400px;
+    background-color: #f6f6f6;
+    border-color: #f6f6f6;
+}
+
+.col-md-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-image {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.card-label {
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    background: linear-gradient(to right, rgba(0, 56, 176, 0.9), rgba(1, 81, 255, 0.9));
+    color: #ffffff;
+    padding: 5px;
+    font-size: 14px;
+    border-radius: 5px;
+}
+
+.card-category {
+    font-size: 12px;
+}
+
+.card-title {
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight:600;
+}
+
+.card-divider {
+    margin: 10px 0;
+    border: none;
+    border-top: 1px solid #7e7e7e;
+}
+
+.card-link {
+    text-align: right;
+}
+
+.websites {
+    margin: 60px auto;
+    padding: 20px;
+}
+
+.card-image-wrapper {
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.card-website-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 0.3s;
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.card:hover .card-website-image {
+    opacity: 1;
+    animation: scrollAnimation 7s infinite;
+    animation-direction: alternate;
+}
+
+.card:hover .card-image {
+    opacity: 0.4;
+}
+
+
+@keyframes scrollAnimation {
+    0% {
+    opacity: 1;
+    transform: translateY(0);
+    }
+    50% {
+    opacity: 1;
+    transform: translateY(-70%);
+    }
+    100% {
+    opacity: 1;
+    transform: translateY(0);
+    }
+}
+
+.row {
+    padding: 50px 30px;
+}
+
+.dcard-label {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    background: linear-gradient(to right, rgba(0, 56, 176, 0.9), rgba(1, 81, 255, 0.9));
+    color: #ffffff;
+    padding: 5px;
+    font-size: 14px;
+    border-radius: 5px;
+}
+
+.marketing-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+
+@property --num {
+    syntax: "<integer>";
+    initial-value: 0;
+    inherits: false;
+}
+
+#counter {
+    transition: --num 1.2s;
+    counter-set: num var(--num);
+    font: 800 40px system-ui;
+}
+#counter::after {
+    content: counter(num);
+}
+
+@keyframes count1 {
+    0% {
+        --num: 0;
+    }
+    100% {
+        --num: 100;
+    }
+}

@@ -1,0 +1,14 @@
+[13-Sep-2023 13:13:43 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'vogubizf_apex'@'localhost' (using password: YES) in /home/vogubizf/public_html/forms/contact.php on line 8
+[13-Sep-2023 13:19:43 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'vogubizf_apex'@'localhost' (using password: YES) in /home/vogubizf/public_html/forms/contact.php on line 8
+[13-Sep-2023 13:49:10 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'vogubizf_apex'@'localhost' to database 'vogubizf_main_db`' in /home/vogubizf/public_html/forms/contact.php on line 8
+[13-Sep-2023 13:50:01 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'vogubizf_apex'@'localhost' to database 'vogubizf_main_db`' in /home/vogubizf/public_html/forms/contact.php on line 8
+[13-Sep-2023 13:50:03 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'vogubizf_apex'@'localhost' to database 'vogubizf_main_db`' in /home/vogubizf/public_html/forms/contact.php on line 8
+[13-Sep-2023 13:53:07 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'vogubizf_apex'@'localhost' to database 'vogubizf_main_db`' in /home/vogubizf/public_html/forms/contact.php on line 8
+[14-Sep-2023 08:12:39 America/New_York] PHP Notice:  Undefined index: name in /home/vogubizf/public_html/forms/contact.php on line 16
+[14-Sep-2023 08:12:39 America/New_York] PHP Notice:  Undefined index: email in /home/vogubizf/public_html/forms/contact.php on line 17
+[14-Sep-2023 08:12:39 America/New_York] PHP Notice:  Undefined index: subject in /home/vogubizf/public_html/forms/contact.php on line 18
+[14-Sep-2023 08:12:39 America/New_York] PHP Notice:  Undefined index: message in /home/vogubizf/public_html/forms/contact.php on line 19
+[23-Sep-2023 16:01:27 America/New_York] PHP Notice:  Undefined index: name in /home/vogubizf/public_html/forms/contact.php on line 16
+[23-Sep-2023 16:01:27 America/New_York] PHP Notice:  Undefined index: email in /home/vogubizf/public_html/forms/contact.php on line 17
+[23-Sep-2023 16:01:27 America/New_York] PHP Notice:  Undefined index: subject in /home/vogubizf/public_html/forms/contact.php on line 18
+[23-Sep-2023 16:01:27 America/New_York] PHP Notice:  Undefined index: message in /home/vogubizf/public_html/forms/contact.php on line 19

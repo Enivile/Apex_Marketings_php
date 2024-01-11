@@ -1,0 +1,8 @@
+.hidefaq {
+    display: hidden;
+} 
+
+.showfaq {
+    display: block;
+}
+

@@ -1,0 +1,47 @@
+[13-Sep-2023 13:58:40 America/New_York] PHP Warning:  require_once(db_connection.php): failed to open stream: No such file or directory in /home/vogubizf/public_html/db_con.php on line 3
+[13-Sep-2023 13:58:40 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'db_connection.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/vogubizf/public_html/db_con.php on line 3
+[13-Sep-2023 13:58:43 America/New_York] PHP Warning:  require_once(db_connection.php): failed to open stream: No such file or directory in /home/vogubizf/public_html/db_con.php on line 3
+[13-Sep-2023 13:58:43 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'db_connection.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/vogubizf/public_html/db_con.php on line 3
+[13-Sep-2023 13:58:49 America/New_York] PHP Warning:  require_once(db_connection.php): failed to open stream: No such file or directory in /home/vogubizf/public_html/db_con.php on line 3
+[13-Sep-2023 13:58:49 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'db_connection.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/vogubizf/public_html/db_con.php on line 3
+[13-Sep-2023 14:05:46 America/New_York] PHP Warning:  require_once(db_connection.php): failed to open stream: No such file or directory in /home/vogubizf/public_html/db_con.php on line 12
+[13-Sep-2023 14:05:46 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'db_connection.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/vogubizf/public_html/db_con.php on line 12
+[13-Sep-2023 14:09:19 America/New_York] PHP Notice:  Undefined variable: name in /home/vogubizf/public_html/connect.php on line 11
+[13-Sep-2023 14:09:19 America/New_York] PHP Notice:  Undefined variable: email in /home/vogubizf/public_html/connect.php on line 11
+[13-Sep-2023 14:09:19 America/New_York] PHP Notice:  Undefined variable: subject in /home/vogubizf/public_html/connect.php on line 11
+[13-Sep-2023 14:09:19 America/New_York] PHP Notice:  Undefined variable: message in /home/vogubizf/public_html/connect.php on line 11
+[13-Sep-2023 14:09:19 America/New_York] PHP Warning:  require_once(db_connection.php): failed to open stream: No such file or directory in /home/vogubizf/public_html/db_con.php on line 12
+[13-Sep-2023 14:09:19 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'db_connection.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/vogubizf/public_html/db_con.php on line 12
+[13-Sep-2023 14:09:47 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'vogubizf_apex'@'localhost' (using password: YES) in /home/vogubizf/public_html/connect.php on line 9
+[13-Sep-2023 14:09:47 America/New_York] PHP Notice:  Undefined variable: name in /home/vogubizf/public_html/connect.php on line 11
+[13-Sep-2023 14:09:47 America/New_York] PHP Notice:  Undefined variable: email in /home/vogubizf/public_html/connect.php on line 11
+[13-Sep-2023 14:09:47 America/New_York] PHP Notice:  Undefined variable: subject in /home/vogubizf/public_html/connect.php on line 11
+[13-Sep-2023 14:09:47 America/New_York] PHP Notice:  Undefined variable: message in /home/vogubizf/public_html/connect.php on line 11
+[13-Sep-2023 14:09:47 America/New_York] PHP Warning:  require_once(db_connection.php): failed to open stream: No such file or directory in /home/vogubizf/public_html/db_con.php on line 12
+[13-Sep-2023 14:09:47 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'db_connection.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/vogubizf/public_html/db_con.php on line 12
+[13-Sep-2023 14:10:45 America/New_York] PHP Warning:  require_once(db_connection.php): failed to open stream: No such file or directory in /home/vogubizf/public_html/db_con.php on line 12
+[13-Sep-2023 14:10:45 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'db_connection.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/vogubizf/public_html/db_con.php on line 12
+[13-Sep-2023 14:13:10 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'vogubizf_apex'@'localhost' to database 'vogubizf_main_db`' in /home/vogubizf/public_html/connect.php on line 8
+[13-Sep-2023 14:13:35 America/New_York] PHP Notice:  Undefined index: name in /home/vogubizf/public_html/connect.php on line 16
+[13-Sep-2023 14:13:35 America/New_York] PHP Notice:  Undefined index: email in /home/vogubizf/public_html/connect.php on line 17
+[13-Sep-2023 14:13:35 America/New_York] PHP Notice:  Undefined index: subject in /home/vogubizf/public_html/connect.php on line 18
+[13-Sep-2023 14:13:35 America/New_York] PHP Notice:  Undefined index: message in /home/vogubizf/public_html/connect.php on line 19
+[13-Sep-2023 14:13:35 America/New_York] PHP Warning:  require_once(db_connection.php): failed to open stream: No such file or directory in /home/vogubizf/public_html/db_con.php on line 12
+[13-Sep-2023 14:13:35 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'db_connection.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/vogubizf/public_html/db_con.php on line 12
+[13-Sep-2023 14:14:05 America/New_York] PHP Notice:  Undefined index: name in /home/vogubizf/public_html/connect.php on line 16
+[13-Sep-2023 14:14:05 America/New_York] PHP Notice:  Undefined index: email in /home/vogubizf/public_html/connect.php on line 17
+[13-Sep-2023 14:14:05 America/New_York] PHP Notice:  Undefined index: subject in /home/vogubizf/public_html/connect.php on line 18
+[13-Sep-2023 14:14:05 America/New_York] PHP Notice:  Undefined index: message in /home/vogubizf/public_html/connect.php on line 19
+[13-Sep-2023 14:14:05 America/New_York] PHP Warning:  require_once(db_connection.php): failed to open stream: No such file or directory in /home/vogubizf/public_html/db_con.php on line 12
+[13-Sep-2023 14:14:05 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'db_connection.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/vogubizf/public_html/db_con.php on line 12
+[13-Sep-2023 17:50:06 America/New_York] PHP Notice:  Undefined index: name in /home/vogubizf/public_html/connect.php on line 16
+[13-Sep-2023 17:50:06 America/New_York] PHP Notice:  Undefined index: email in /home/vogubizf/public_html/connect.php on line 17
+[13-Sep-2023 17:50:06 America/New_York] PHP Notice:  Undefined index: subject in /home/vogubizf/public_html/connect.php on line 18
+[13-Sep-2023 17:50:06 America/New_York] PHP Notice:  Undefined index: message in /home/vogubizf/public_html/connect.php on line 19
+[13-Sep-2023 17:50:06 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/vogubizf/public_html/leads.php on line 7
+[13-Sep-2023 17:50:06 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/vogubizf/public_html/leads.php on line 10
+[13-Sep-2023 17:50:06 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/vogubizf/public_html/leads.php on line 34
+[19-Sep-2023 18:30:46 America/New_York] PHP Notice:  Undefined index: timestamp in /home/vogubizf/public_html/leads.php on line 102
+[19-Sep-2023 18:30:46 America/New_York] PHP Notice:  Undefined index: timestamp in /home/vogubizf/public_html/leads.php on line 102
+[19-Sep-2023 18:30:46 America/New_York] PHP Notice:  Undefined index: timestamp in /home/vogubizf/public_html/leads.php on line 102
+[19-Sep-2023 18:30:46 America/New_York] PHP Notice:  Undefined index: timestamp in /home/vogubizf/public_html/leads.php on line 102
